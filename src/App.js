@@ -1,25 +1,25 @@
-import logo from './logo.svg';
+import React from 'react'
 import './App.css';
+import Home from './pages/homepage';
+import AppGraderHome from './pages/AppGrader';
+import { BrowserRouter,Switch,Route } from 'react-router-dom'
+import SignalGen from './pages/SignalGen';
+import Optima from './pages/Optima';
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  <div className="App">
+    <BrowserRouter>
+      <Switch>
+          <Route path='/' component={Home} exact></Route>
+          <Route path='/appgrader' component={AppGraderHome} exact></Route> 
+          <Route path='/signal' component={SignalGen} exact></Route> 
+          <Route path='/optima' component={Optima} exact></Route> 
+      </Switch>
+    </BrowserRouter> 
+  </div>
+  ); 
 }
 
 export default App;
