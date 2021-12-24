@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio_v1/static/css/main.ede5d7d6.chunk.css",
+    "main.js": "/portfolio_v1/static/js/main.a7c57cd9.chunk.js",
+    "main.js.map": "/portfolio_v1/static/js/main.a7c57cd9.chunk.js.map",
+    "runtime-main.js": "/portfolio_v1/static/js/runtime-main.faa108cd.js",
+    "runtime-main.js.map": "/portfolio_v1/static/js/runtime-main.faa108cd.js.map",
+    "static/js/2.4ff1524d.chunk.js": "/portfolio_v1/static/js/2.4ff1524d.chunk.js",
+    "static/js/2.4ff1524d.chunk.js.map": "/portfolio_v1/static/js/2.4ff1524d.chunk.js.map",
+    "index.html": "/portfolio_v1/index.html",
+    "precache-manifest.3ed68da9730217c1847396686cad53de.js": "/portfolio_v1/precache-manifest.3ed68da9730217c1847396686cad53de.js",
+    "service-worker.js": "/portfolio_v1/service-worker.js",
+    "static/css/main.ede5d7d6.chunk.css.map": "/portfolio_v1/static/css/main.ede5d7d6.chunk.css.map",
+    "static/js/2.4ff1524d.chunk.js.LICENSE.txt": "/portfolio_v1/static/js/2.4ff1524d.chunk.js.LICENSE.txt",
+    "static/media/Data processing-pana.svg": "/portfolio_v1/static/media/Data processing-pana.f552f53b.svg",
+    "static/media/Financial data-amico.svg": "/portfolio_v1/static/media/Financial data-amico.3e14c456.svg",
+    "static/media/Grades.svg": "/portfolio_v1/static/media/Grades.fe181acc.svg",
+    "static/media/logo-higlighted.png": "/portfolio_v1/static/media/logo-higlighted.09f8e817.png",
+    "static/media/logo-original.png": "/portfolio_v1/static/media/logo-original.552037cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa108cd.js",
+    "static/js/2.4ff1524d.chunk.js",
+    "static/css/main.ede5d7d6.chunk.css",
+    "static/js/main.a7c57cd9.chunk.js"
+  ]
+}

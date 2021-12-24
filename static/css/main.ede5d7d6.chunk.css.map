@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACI,qBAAsB,CACtB,QAAS,CACT,aAAc,CACd,wCAA0C,CAC1C,mCAEJ","file":"main.ede5d7d6.chunk.css","sourcesContent":["*{\n    box-sizing: border-box;\n    margin: 0;\n    padding: 1.5px;\n    font-family: 'Allerta Stencil', sans-serif;\n    font-family: 'Roboto Mono', monospace;\n    \n}"]}
