@@ -1,30 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio_v1/static/css/main.ede5d7d6.chunk.css",
-    "main.js": "/portfolio_v1/static/js/main.ae30b5c7.chunk.js",
-    "main.js.map": "/portfolio_v1/static/js/main.ae30b5c7.chunk.js.map",
+    "main.js": "/portfolio_v1/static/js/main.f3482182.chunk.js",
+    "main.js.map": "/portfolio_v1/static/js/main.f3482182.chunk.js.map",
     "runtime-main.js": "/portfolio_v1/static/js/runtime-main.faa108cd.js",
     "runtime-main.js.map": "/portfolio_v1/static/js/runtime-main.faa108cd.js.map",
-    "static/js/2.8441bd31.chunk.js": "/portfolio_v1/static/js/2.8441bd31.chunk.js",
-    "static/js/2.8441bd31.chunk.js.map": "/portfolio_v1/static/js/2.8441bd31.chunk.js.map",
+    "static/js/2.e9209255.chunk.js": "/portfolio_v1/static/js/2.e9209255.chunk.js",
+    "static/js/2.e9209255.chunk.js.map": "/portfolio_v1/static/js/2.e9209255.chunk.js.map",
     "index.html": "/portfolio_v1/index.html",
-    "precache-manifest.919e1722fdd3a3e3f11376a3cda0be38.js": "/portfolio_v1/precache-manifest.919e1722fdd3a3e3f11376a3cda0be38.js",
+    "precache-manifest.cf958174ff132ca6b62428abf9949cd5.js": "/portfolio_v1/precache-manifest.cf958174ff132ca6b62428abf9949cd5.js",
     "service-worker.js": "/portfolio_v1/service-worker.js",
     "static/css/main.ede5d7d6.chunk.css.map": "/portfolio_v1/static/css/main.ede5d7d6.chunk.css.map",
-    "static/js/2.8441bd31.chunk.js.LICENSE.txt": "/portfolio_v1/static/js/2.8441bd31.chunk.js.LICENSE.txt",
+    "static/js/2.e9209255.chunk.js.LICENSE.txt": "/portfolio_v1/static/js/2.e9209255.chunk.js.LICENSE.txt",
     "static/media/Appgrader.png": "/portfolio_v1/static/media/Appgrader.adaf6213.png",
-    "static/media/Grades.png": "/portfolio_v1/static/media/Grades.fafd6085.png",
-    "static/media/Optima.png": "/portfolio_v1/static/media/Optima.e57c4d25.png",
-    "static/media/Optima1.png": "/portfolio_v1/static/media/Optima1.5aece5ed.png",
-    "static/media/Optima2.png": "/portfolio_v1/static/media/Optima2.17fd3102.png",
-    "static/media/SigGen.png": "/portfolio_v1/static/media/SigGen.1c64deb9.png",
+    "static/media/Grades.png": "/portfolio_v1/static/media/Grades.dfd26e4d.png",
+    "static/media/Optima.png": "/portfolio_v1/static/media/Optima.b282ea5d.png",
+    "static/media/OptimaAddins.png": "/portfolio_v1/static/media/OptimaAddins.3af2b618.png",
+    "static/media/SigGen.png": "/portfolio_v1/static/media/SigGen.8f175ef5.png",
     "static/media/SignalGenerator_UserFlow.png": "/portfolio_v1/static/media/SignalGenerator_UserFlow.91c01f44.png",
     "static/media/logo-original.png": "/portfolio_v1/static/media/logo-original.552037cd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.faa108cd.js",
-    "static/js/2.8441bd31.chunk.js",
+    "static/js/2.e9209255.chunk.js",
     "static/css/main.ede5d7d6.chunk.css",
-    "static/js/main.ae30b5c7.chunk.js"
+    "static/js/main.f3482182.chunk.js"
   ]
 }
